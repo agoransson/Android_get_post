@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Android_get_postActivity!</string>
+    <string name="app_name">Android_get_post</string>
+    <string name="get_title">GET</string>
+    <string name="post_title">POST</string>
+
+</resources>
